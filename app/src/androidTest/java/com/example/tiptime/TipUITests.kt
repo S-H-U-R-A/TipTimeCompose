@@ -33,7 +33,5 @@ class TipUITests {
 
     }
 
-    @Test
-    fun
 
 }
